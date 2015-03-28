@@ -1,4 +1,4 @@
-/*简易队列实现 模板类只支持内部数据类型*/
+/*简易队列实现(环形数组方式) 模板类只支持内部数据类型*/
 #pragma once
 #ifndef _QUEUE_H
 #define _QUEUE_H
